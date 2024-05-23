@@ -1,0 +1,42 @@
+#whole{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(0, 72%, 78%);
+    border-radius: 10px;
+    margin: auto;
+    width:400px;
+    height: 250px;
+    padding: 20px ;
+
+}
+h1{
+    margin-top: 20px;
+}
+#getele{
+    text-align: center;
+    border-radius: 10px;
+    width:100px;
+    font-size: larger;
+    box-shadow: 5px 5px 7px black;
+}
+#btn{
+    padding :10px;
+    margin:20px;
+    color:black;
+    background-color: hsla(240, 80%, 88%, 0.995);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: medium;
+
+}
+#btn:hover{
+    color:rgb(255, 255, 255);
+    background-color: hsla(240, 91%, 70%, 0.927);
+}
+image{
+     
+    display: block;
+    padding:30px;
+
+    
+}
